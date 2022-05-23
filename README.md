@@ -1,6 +1,6 @@
-# 2.AppDeNotas-V1
+# 2.AppDeTareas-V1
 
-Práctica Integradora 1 - Haciendo una app de tareas (Versión Final)
+Práctica Integradora 1 - Haciendo una app de tareas (Versión 1)
 
 [![Screenshot-1.png](https://i.postimg.cc/VNSKF5sW/Screenshot-1.png)](https://postimg.cc/SXhLSSMn)
 [![Screenshot-2.png](https://i.postimg.cc/Pr3bFhR3/Screenshot-2.png)](https://postimg.cc/hfm7XFgT)
